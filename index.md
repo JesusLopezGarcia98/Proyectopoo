@@ -2,24 +2,12 @@
 
 You can use the [editor on GitHub](https://github.com/JesusLopezGarcia98/Proyectopoo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Este es un juego retro, hecho en java , el proposito de este es eliminar los bloques , entre más bloques elimines mayor será la puntuación, tambien debes evitar que la pelota caiga!
 
-### Markdown
+¡¡No la dejes caer!!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+Proyecto de evaluación 3° parcial 6° cuatrimestre
+Jesús Ramón López García
 
 **Bold** and _Italic_ and `Code` text
 
